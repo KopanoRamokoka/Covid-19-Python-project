@@ -16,3 +16,5 @@ import numpy as np
 Picture below is the dataset used for analysis
 
 ![Screenshot 2025-03-09 132438](https://github.com/user-attachments/assets/c52d13bf-2376-43b7-9c12-9753d0355b58)
+
+fULL PROJECT TO BE SEEN [HERE](https://github.com/KopanoRamokoka/Covid-19-Python-project/blob/main/Covid%2019%20Python%20project%20(1).ipynb)
